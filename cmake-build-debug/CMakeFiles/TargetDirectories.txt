@@ -1,0 +1,3 @@
+C:/Users/luis2/CLionProjects/tarea-archivos/cmake-build-debug/CMakeFiles/tarea_archivos.dir
+C:/Users/luis2/CLionProjects/tarea-archivos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/luis2/CLionProjects/tarea-archivos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
